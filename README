@@ -1,0 +1,1 @@
+Compile with: gcc -Wall -shared -std=c99 losegui.c -o losegui.dll
